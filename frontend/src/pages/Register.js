@@ -194,7 +194,7 @@ function Register() {
                   <path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11" />
                 </svg>
               </div>
-              <span className="rp-logo-name">TaskFlow</span>
+              <span className="rp-logo-name">Taskify</span>
             </div>
             <div className="rp-login-link">
               Have an account? <Link to="/">Sign in</Link>
